@@ -1,0 +1,16 @@
+.hero-btn{
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(254, 253, 253);
+    border: 1px solid #0a0a0a;
+    padding: 12px 34px;
+    font-size: 13px;
+    background: none;
+    position: relative;
+    cursor: pointer;
+}
+.hero-btn:hover{
+    border: 1px solid #0d6efd;
+    background: #0d6efd;
+    transition: 1s;
+}
