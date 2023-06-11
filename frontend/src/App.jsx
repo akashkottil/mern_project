@@ -31,7 +31,7 @@ function App() {
       
         <BrowserRouter>
         <Routes>
-          <Route exact path='/' element={<HomePage/>}/>
+          <Route exact path='/' element={<LandingPage/>}/>
           <Route exact path='/grocery' element={<Grocery/>}/>
           <Route exact path='/login' element={<Login/>}/>
           <Route exact path='/adminlogin' element={<AdminLogin/>}/>
